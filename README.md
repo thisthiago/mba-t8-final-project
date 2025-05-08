@@ -11,7 +11,7 @@ s3://dev-lab-02-us-east-2-landing/soccer/
 Pode escolher:
 
 * **Local**: Jupyter + MinIO + Docker
-* **Nuvem**: AWS S3 + AWS Glue (ou JupyterLab no SageMaker) + Athena
+* **Nuvem**: AWS S3 + AWS Glue (ou JupyterLab ou no Glue ETL) + Athena
 
 Em ambos os casos, todo código (notebooks + scripts) deve ser versionado em Git, ou caso não tenha familiaridade pode empacotado no formato ZIP e enviar via email.
 
