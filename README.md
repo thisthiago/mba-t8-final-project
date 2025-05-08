@@ -70,7 +70,7 @@ Os alunos devem utilizar **pelo menos os seguintes componentes** no projeto:
 > **Entrega obrigatória:**
 - Dicionário de dados em formato markdown (`.md`) para as tabelas **Gold**
 - Notebook ou script utilizado para a ingestão
-- Create table da tabela athena
+- Create table da tabela athena, se ultilizar o athena
 
 ---
 
@@ -78,7 +78,7 @@ Os alunos devem utilizar **pelo menos os seguintes componentes** no projeto:
 
 ### 📁 Organização do Projeto
 
-Você deve organizar os notebooks ou scripts com as seguintes partes:
+Você deve organizar os repositório da seguinte maneira:
 
 ```
 project/
@@ -93,7 +93,7 @@ project/
 │   ├── 02_silver.ipynb
 │   └── 03_gold.ipynb
 ├── athena/
-|   └── gold.sql
+|   └── gold.sql                       # Se utilizar o athena
 └── terraform/                         # Se utilizar infraestrutura como código
     └── main.tf
 ```
@@ -113,8 +113,9 @@ project/
 ## Pontuação Extra
 | Critério                               | Peso |
 | -------------------------------------- | ---- |
-| Uso de Terraform                       | 15%  |
-| Uso de merge/upsert nas tabelas delta  | 15%  |
+| Uso de Terraform                       | 10%  |
+| Uso de merge/upsert nas tabelas delta  | 10%  |
+| Criação e uso de tabelas no Athena     | 10%  |
 
 ---
 
