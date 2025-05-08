@@ -33,7 +33,7 @@ Os alunos devem utilizar **pelo menos os seguintes componentes** no projeto:
 
 # 🧱 Arquitetura Esperada: Medallion Architecture
 
-### 🥉 Bronze (Raw Zone)
+### 🥉 Bronze 
 
 * Ingestão bruta dos dados do bucket `s3://dev-lab-02-us-east-2-landing/soccer/`
 * Formato de entrada: JSON, CSV ou outro
@@ -45,7 +45,7 @@ Os alunos devem utilizar **pelo menos os seguintes componentes** no projeto:
 - Notebook ou script utilizado para a ingestão
 ---
 
-### 🥈 Silver (Cleansed Zone)
+### 🥈 Silver 
 
 * Transformações aplicadas: normalização, limpeza, renomeação de colunas, tratamento de nulos
 * Pode envolver joins entre tabelas
@@ -59,7 +59,7 @@ Os alunos devem utilizar **pelo menos os seguintes componentes** no projeto:
 - Notebook ou script utilizado para a ingestão
 ---
 
-### 🥇 Gold (Business Zone)
+### 🥇 Gold 
 
 * Dados prontos para análise
 * Dataset analítico/agregado (por ex: média de gols por temporada e time)
