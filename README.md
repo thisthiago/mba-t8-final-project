@@ -131,8 +131,7 @@ project/
 
 ### ✅ Preferencial: Repositório no GitHub
 
-* Submeta o link no AVA ou por email
-* O repositório deve conter os notebooks e o README explicando as decisões
+* Envie para o email do professor com o assunto: `Projeto Final - ETL MBA - SeuNome`
 
 ### 📨 Alternativa: Envio por Email
 
