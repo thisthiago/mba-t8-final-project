@@ -1,4 +1,5 @@
-# 📘 Projeto Final — Módulo: Arquiteturas de ETL e ELT (MBA)
+# 📘 Projeto Final — Módulo: Arquiteturas de ETL e ELT (MBA) 
+# Entrega até 16/05/2025
 
 ## 🎯 Objetivo
 
@@ -150,3 +151,5 @@ project/
 * **Testem as queries no Athena antes da entrega!**
 
 ---
+ 
+# Entrega até 16/05/2025
