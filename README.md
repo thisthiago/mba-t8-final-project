@@ -1,5 +1,5 @@
 # 📘 Projeto Final — Módulo: Arquiteturas de ETL e ELT (MBA) 
-# Entrega até 16/05/2025
+# Entrega até 23/05/2025
 
 ## 🎯 Objetivo
 
@@ -152,4 +152,4 @@ project/
 
 ---
  
-# Entrega até 16/05/2025
+# Entrega até 23/05/2025
