@@ -135,10 +135,11 @@ project/
 
 * Envie para o email do professor com o assunto: `Projeto Final - ETL MBA - SeuNome`
 
-### 📨 Alternativa: Envio por Email
+### 📨 Alternativa: Envio por Email this.thiago1@gmail.com
 
 * Compacte os arquivos (`.zip`)
 * Envie para o email do professor com o assunto: `Projeto Final - ETL MBA - SeuNome`
+* Envie para o emaiç: this.thiago1@gmail.com
 
 ---
 
@@ -153,3 +154,4 @@ project/
 ---
  
 # Entrega até 23/05/2025
+Email: this.thiago1@gmail.com
